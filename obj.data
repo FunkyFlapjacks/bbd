@@ -2,4 +2,4 @@ classes= 15
 train  = bbd/train.txt
 valid  = bbd/test.txt
 names = bbd/obj.names
-backup = bbd/backup/
+backup = bbd/backup
